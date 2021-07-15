@@ -47,14 +47,12 @@
 import Sidebar from './Sidebar.vue'
 import Footer from './Footer.vue'
 import Topbar from './Topbar.vue'
-import MainContent from './MainContent.vue'
 export default {
   name: 'Panel',
   components: {
       Sidebar,
       Footer,
-      Topbar,
-      MainContent
+      Topbar
   }
 }
 </script>
