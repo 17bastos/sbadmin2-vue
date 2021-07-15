@@ -1,5 +1,8 @@
 # sbadmin2-vue
 
+## Project presentation
+![](presentation.gif)
+
 ## Project setup
 ```
 npm install
